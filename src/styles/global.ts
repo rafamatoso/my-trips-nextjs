@@ -39,7 +39,7 @@ const GlobalStyle = createGlobalStyle`
   }
 
   a {
-    color: var(--highlitgh);
+    color: var(--highlight);
   }
 `
 
